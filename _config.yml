@@ -19,7 +19,7 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://takagotch.github.io'
 
-author: your_full_name                  # change to your full name
+author: Takashi Yoshioka                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -30,8 +30,8 @@ twitter:
   username: takagotch                   # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: tkvtv                  # it will shows as the copyright owner in Footer
+  email: takagotch@activated.sakura.ne.jp             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/takagotch      # change to your twitter homepage
@@ -79,7 +79,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # <light|dark>
+theme_mode:   <light|dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
