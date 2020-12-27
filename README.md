@@ -8,8 +8,12 @@
 ```
 
 
+```.sh
+git checkout -b gh-pages
+git add .
+git commit -m "git checkout -b gh-pages"
+git push origin gh-pages
 
-```
 ```
 
 ```
