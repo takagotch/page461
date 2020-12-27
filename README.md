@@ -6,7 +6,12 @@
  Your site is having problems building: Page build failed. For more information, see https://docs.github.com/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#troubleshooting-build-errors.
 ```
 
-```
+```.sh
+git checkout -b gh-pages
+git add .
+git commit -m "git checkout -b gh-pages"
+git push origin gh-pages
+
 ```
 
 ```
