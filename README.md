@@ -3,6 +3,7 @@
 
 
 ```
+ Your site is having problems building: Page build failed. For more information, see https://docs.github.com/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#troubleshooting-build-errors.
 ```
 
 ```
